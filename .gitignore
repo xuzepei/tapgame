@@ -16,6 +16,29 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+
+# Pods - for those of you who use CocoaPods
+Pods
+
+# Mac OSX
+.DS_Store
+.DS_Store?
+Icon?
+.hg/*
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
 
 # CocoaPods
 #
@@ -24,3 +47,5 @@ DerivedData
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
 # Pods/
+
+
